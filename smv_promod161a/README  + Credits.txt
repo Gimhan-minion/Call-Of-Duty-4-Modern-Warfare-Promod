@@ -1,0 +1,53 @@
+HOW TO INSTALL
+
+-> EXTRACT THE FOLDER smv_promod161a IN MODS FOLDER IN YOUR COD4 SERVER DIRECTORY
+-> EDIT THE +SET fs_game "" PARAMETER AS +set fs_game "mods\smv_promod161a" IN YOUR SERVER COMMANDLINE
+
+HOW TO BECOME ADMIN & USE ADMIN MENU  
+
+-> FIRST START SERVER AND ENTER THE SERVER.
+-> PRESS P , ADMIN MENU WILL OPENUP. YOU CAN VIEW YOUR GUID BY SELECTING YOUR PLAYER NAME
+-> NOTE DOWN YOUR GUID
+-> ADD THE LAST 8 CHARACTERS OF YOUR GUID IN  server.cfg AT SECTION PERMISSIONS & SET MENU ADMiN
+
+SERVER COMPATIBILITY
+
+COD4 VERSION 1.7, 1.7a,
+Limited Compatibility with COD4 VERSION 1.8 - 16.1
+
+
+PLUGIN SUPPORT
+
+We have added PLUGIN FACILITY from Version LV 1.5.4  .. You can add custom gsc plugins like in deathrun servers..(Note that deathrun plugins might not work with promod)
+(If you are not a Modder and you need customized scripts, contact me for more details)  
+
+ADDITIONAL NOTES
+
+-> SEE SERVER.CFG FILE AND CUSTOMIZE "ADDITIONAL FEATURES" SECTION AS YOUR NEED 
+-> YOU CAN DISABLE ANY ADDITIONAL FEATURE IF YOU DONT LIKE IT OR IF YOU FOUND ANY BUG ON IT...
+-> YOU ARE FREE TO DELETE ADDITIONAL IWD FILES SUCH AS smv.iwd, skins.iwd , IF YOU DONT LIKE OUR WEAPON SKINS OR OTHER CUSTOMIZED IMAGE FILES :P
+-> ALSO YOU CAN ADD YOUR CUSTOM SOUND FILES IN z_snd.iwd FOR FINAL KILLCAM MUSIC AND GAMEEND MUSIC....
+-> THERE ARE STILL BUGS AND MINOR ERRORS... :p
+
+
+
+
+
+ ______________________________________________________________
+|                                                              |
+|  CREDITS AND THANKS TO ALL WHO SUPPORTED IN CREATING THE MOD |
+|                                                              |
+|______________________________________________________________|
+---------------------
+SPECIAL CREDITS 
+---------------------
+OFFICIAL PROMOD TEAM, INGRAM, BRAXI, DUFFMAN,CRAZY AND WHOEVER THE REAL CONTRIBUTORS OF SCRIPT MODULE.
+I USED MANY IMAGE FILES & SKIN FILES FROM CFG FACTORY..THANKS TO THOSE ARTISTS & DEVELOPERS WHO MADE THEM 
+
+SOURCES
+-------
+GITHUB
+CFGFACTORY
+MODDB.COM
+
+

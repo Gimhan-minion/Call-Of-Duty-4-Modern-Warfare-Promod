@@ -1,0 +1,53 @@
+LV 1.6.1a (recompiled v1.6.1a.1)
+Fixed menu asset error for patch 1.6 & 1.7
+
+LV 1.6.1a
+Added A lot of effects in Raw (efx) (Not everything in Use :P )
+Added More Sound aliases and sounds Can be customized in smvsounds.cfg
+Changes in Final killcam,
+Added new set of training/Knifing Areas..
+
+LV 1.5.3b
+-changes in iwd files.
+-files mandatory in fs_gamepath: mod.ff,server.cfg, pml220.iwd,z_update.iwd,z_c_r.iwd {skins.iwd,z_snd.iwd, smv.iwd can be edited or removed}
+
+LV 1.5.2b
+Fixed Training Area bug
+Added More shader images
+Added More soundaliases (now 12 roundend+12 sounds)
+Added Signature icon in main menu 
+
+
+LV 1.5.1b
+-Guid Displayed in AdminMenu Stripped to last 8 chars only (to protect admins guid from spoofing)
+-Added a new dvar to show or hide guid in admin menu
+-Fov sliders in options menu replaced by Float list
+-Added fullbright toggle bind in multiplayer controls menu
+-Added FOV scale & Full bright options in quick message menu
+-Fixed some commands in admin menu
+
+
+LV 1.5b
+-Added more new sound aliases (6 smv_sound + 4 smv_roundend)
+-Added Customzable music to final killcam (you can enable or disable it at server.cfg) 
+-Added Customizable music at Game End (you can enable or disable it at server.cfg) 
+-Removed unwanted iwi image referrences
+-Added Anticheat Client Dvar Forcing to prevent clients to use inbuit cheat dvars (like g_compassshowenemies 1, ..etc) 
+-Now You can delete additional iwd files like smv.iwd, skins.iwd if you dont like our weapon skins or other image mterials :P
+-Added Working getclientdvar.menu, but didnt added its fuctional gsc script 
+(If you are a scripter you can use it to get client dvars (It will not read string dvars), using its fuction script, contact us for functional script) 
+
+
+
+LV 1.4b
+
+-Bug fixes
+-Fixed string errors
+-Added dvar to use customized ip address "add to favorites" for the menu 
+-Fixed small bugs in training area
+-Training area- sound of players lowered
+-Added master switch dvar (smv_master_features) (to turn off all additional features)
+-Finalkillcam & Trainig area & admin menu disabled for match mode
+-Customizable orbituary text color for final killcam
+
+
