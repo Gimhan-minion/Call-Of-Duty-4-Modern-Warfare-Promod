@@ -2,7 +2,7 @@
 Customized Promod for Cod4
 
 **Step 1**
-Open Cod4 using the promod.
+Copy the following directory to Call of duty Multiplayer/Mods & Open Cod4 using the promod.
 
 **Step 2**
 Change the promod to custom using this command
