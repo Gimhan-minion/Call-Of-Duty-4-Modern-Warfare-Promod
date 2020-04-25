@@ -173,6 +173,7 @@ level.smvmaster=1;
 	// player fall damage
 	setDvar( "bg_fallDamageMinHeight", 140 ); // [1->] (min height to inflict min fall damage)
 	setDvar( "bg_fallDamageMaxHeight", 350 ); // [1->] (max height to inflict max fall damage)
+	setDvar( "sv_cheats", 0 );
 	setDvar( "jump_slowdownEnable", 0 );
 	setDvar( "smv_master_features", 1 );
 	setDvar( "scr_finalkillcam", 1 );
