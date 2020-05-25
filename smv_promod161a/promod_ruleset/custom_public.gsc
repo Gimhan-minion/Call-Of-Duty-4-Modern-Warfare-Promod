@@ -79,7 +79,7 @@ level.smvmaster=1;
 
 	setDvar( "class_assault_allowdrop", 1 );
 	setDvar( "class_specops_allowdrop", 1 );
-	setDvar( "class_demolitions_allowdrop", 1 );
+	setDvar( "class_demolitions_allowdrop", 0 );
 	setDvar( "class_sniper_allowdrop", 1 );
 
 	// assault
