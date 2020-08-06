@@ -1,5 +1,5 @@
 # Cod4Promod
-Customized Promod for Cod4
+Customized Promod for Call of Duty 4-Modern Warfare Multiplayer
 
 **Step 1**
 Copy the following directory to Call of duty Multiplayer/Mods & Open Cod4 using the promod.
